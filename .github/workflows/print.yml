@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - name: Print Message
-        run: echo"hello! A push detected on main branch"
+        run: echo "hello! A push detected on main branch"
 
       - name: Print a Message
         run: echo "Hello! A second push detected on main branch" 
